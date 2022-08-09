@@ -1,0 +1,27 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "private": "false",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start" : "node index,js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Maxim Akimov",
+  "license": "ISC",
+  "homepage" : "https://portfolio.siparat.unaux.com",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://portfolio.siparat.unaux.com",
+    "email": "maksimak1712@mail.ru"
+  }
+}
